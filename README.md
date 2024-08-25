@@ -20,7 +20,7 @@ This Bash script monitors various system resources on a proxy server and present
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/stranger-814/proxy_server_monitoring.git>
    ```
 
 2. **Navigate to the project directory**:
