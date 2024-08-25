@@ -113,12 +113,3 @@ You can view specific parts of the dashboard using the following command-line sw
    ```bash
    ./monitor.sh -services
    ```
-
-## Customization
-
-You can customize the script according to your specific needs by modifying the functions within the script. For example, you can add more services to monitor or adjust the refresh rate of the dashboard.
-
-## Troubleshooting
-
-If you encounter any issues while running the script, ensure that all required tools and commands (e.g., `ps`, `netstat`, `df`, `uptime`, `free`) are installed and available on your system. For Windows users, it is recommended to use WSL for better compatibility with Linux commands.
-
